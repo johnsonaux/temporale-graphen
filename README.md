@@ -2,4 +2,4 @@
 
 Thema: Temporale Aggreagte auf existierenden Graphberechungssystemen 
 
-Link Anforderungsanalyse: 
+Link Anforderungsanalyse: https://temporaleaggregate.firebaseapp.com/
